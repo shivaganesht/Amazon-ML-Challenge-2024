@@ -1,0 +1,3 @@
+- Use OCR model to get all the text information
+- use NLP techniques to get the context wrt object
+- give desired quantity as output
